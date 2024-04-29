@@ -1,6 +1,6 @@
 % Parameters
 
-m = 1000; % Mass kg
+m = 64; % Mass kg
 
 g = 9.81;
 
